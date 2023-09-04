@@ -9,4 +9,4 @@ Even though test access is roughly at 1/3 players, there is still no workshop su
 2. Copy the vpk file to `Counter-Strike Global Offensive\game\csgo\maps` relative to where CS2 is installed.
 
 # How To Play
-1. Load the map via console with `map bot_warmup2`
+1. Load the map via console with `game_type 1; game_mode 0; map bot_warmup2`
