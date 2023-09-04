@@ -5,7 +5,7 @@ Even though test access is roughly at 1/3 players, there is still no workshop su
 
 # How To Install
 
-1. Download the map from the [releases page](https://github.com/matth2k/bot_warmup).
+1. Download the map from the [releases page](https://github.com/matth2k/bot_warmup/releases).
 2. Copy the vpk file to `Counter-Strike Global Offensive\game\csgo\maps` relative to where CS2 is installed.
 
 # How To Play
