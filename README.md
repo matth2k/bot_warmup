@@ -10,4 +10,5 @@ Even though test access is roughly at 1/3 players, there is still no workshop su
 
 # How To Play
 1. Load the map via console with `game_type 0; game_mode 0; map bot_warmup2`
-2. Shoot the sign that says "EMERGENCY" to re-initialize the map config.
+2. Choose T side during team selection.
+3. Shoot the sign that says "EMERGENCY" to re-initialize the map config.
